@@ -44,6 +44,6 @@ Learning by building and experimenting 🚀
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/mahanly
-- Instagram: @mahan_lia00
+- Instagram: @liaghatmand_com
 - Telgeram: @mahanly1389
 - E-mail: mahanly89mly@gmail.com
