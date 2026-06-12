@@ -6,7 +6,7 @@
 Learning by building and experimenting 🚀
 
 ---
-### I born at 🗓️ 3,oct,2010 🗓️ and i want to make the best 
+### I born at 🗓️ 3,oct,2010 🗓️ and i want to make a best 
 ## 🧠 What I’m Focused On
 
 - Deep Learning & Neural Networks  
