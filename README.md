@@ -8,7 +8,7 @@ Learning by building and experimenting 🚀
 ---
 ### I born at 🗓️ 3,oct,2010 🗓️ and i want to make a best 
 ## 🧠 What I’m Focused On
-
+- **Backend:** Node.js, Express, REST APIs, GraphQL
 - Deep Learning & Neural Networks  
 - Hands-on projects with **PyTorch**
 - Understanding models from the ground up  
