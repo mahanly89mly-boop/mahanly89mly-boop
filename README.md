@@ -1,6 +1,8 @@
 
 # 👋 Hi, I'm Mahan liaghatmand
 
+**Full‑stack & AI Developer**
+
 ### Deep Learning Learner | Neural Networks  
 **PyTorch | Python**  
 Learning by building and experimenting 🚀
