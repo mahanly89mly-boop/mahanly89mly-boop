@@ -19,7 +19,7 @@ Learning by building and experimenting 🚀
 ## 🛠 Tech Stack
 - **Backend:** FastAPI, Node.js, Express, REST APIs, GraphQL
 - **Programming:** Python  
-- **Deep Learning:** PyTorch, Neural Networks  
+- **Deep Learning:** Tensorflow/keras, PyTorch, Neural Networks  
 - **Math & ML:** Linear Algebra, Backpropagation, Optimization  
 - **Tools:** Git, GitHub, VS Code, Linux  
 
