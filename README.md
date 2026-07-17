@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Mahan liaghatmand
 
-### **Full‑stack & AI Developer**  
+### **Back-End & AI Developer**  
 **PyTorch | Python**  
 Learning by building and experimenting 🚀
 
